@@ -1,0 +1,2 @@
+---Create SQL to create report daily
+---DB: tb_member, tb_transaction
